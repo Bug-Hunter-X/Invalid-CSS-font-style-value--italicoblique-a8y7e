@@ -1,0 +1,7 @@
+The `italicoblique` value should be replaced with either `italic` or `oblique`.  Here's the corrected CSS:
+```css
+.my-element { font-style: italic; }
+/* Or */
+.my-element { font-style: oblique; }
+```
+Choose the value that best suits your desired visual effect.
